@@ -8,7 +8,7 @@
 
 <br/>
 
-<div >
+<div align="left">
  
 👨‍💻 I’m Currently studying Full-stack development in [OFPPT](ofppt.ma)
  
