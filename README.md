@@ -6,17 +6,16 @@
 
 <h3 align="center"A Full-stack Developer Student from Morocco 🇲🇦</h3>
 
-<br/>
 
-- 👨‍💻 I’m Currently studying Full-stack development in [OFPPT](ofppt.ma)
- 
+- 👨‍💻 I'm Currently studying Full-satck development in [OFPPT](ofppt.ma)
+
 - 🌱 I’m currently learning **PHP**
 
 - 💬 Ask me about **Javascript, Python, Mysql... or anything [here](https://github.com/AkramBl1)**
 
-- ⚡All of my projects are available at https://github.com/AkramBl1
+- ⚡All of my projects are available at [https://github.com/AkramBl1](https://github.com/AkramBl1)
 
- 
+
 <div align="left"> 
 <h3 align="left">Connect with me:</h3>
   <a href="mailto:akramibnelyazid@gmail.com">
