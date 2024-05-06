@@ -13,7 +13,10 @@
 - 💬 Ask me about **Javascript, Python, Mysql... or anything [here](https://github.com/AkramBl1)**
 
 - ⚡All of my projects are available at [https://github.com/AkramBl1](https://github.com/AkramBl1)
+  
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6579bc7f5145316d25fa9a78?variant=dark&roadmaps=javascript%2Csql%2C65fe1c806deb533d6e1512de)](https://roadmap.sh)
 
+<img src="https://www.codewars.com/users/AkramBl1/badges/large" width="500">
 
 <div align="left"> 
 <h3 align="left">Connect with me:</h3>
@@ -44,11 +47,14 @@
 
 <hr/>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AkramBl1&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AkramBl1&theme=react&hide_border=true)<br/>
+## 📊 GitHub Stats 
+<div align=center>
+    
+![](https://github-readme-stats.vercel.app/api?username=AkramBl1&theme=react&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=AkramBl1&theme=react&hide_border=true)
+<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AkramBl1&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
 
 <br/>
