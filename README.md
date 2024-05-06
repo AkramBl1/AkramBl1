@@ -14,9 +14,9 @@
  
 🌱 I’m currently learning **PHP**
 
-💬 Ask me about **Javascript, Python, Mysql... or anything [here](https://github.com/AkramBl1/AkramBl1/issues)**
+💬 Ask me about **Javascript, Python, Mysql... or anything [here](https://github.com/AkramBl1)**
 
-⚡ All of my projects are available at 
+⚡ All of my projects are available at https://github.com/AkramBl1
 
  </div>
  
@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://www.instagram.com/akram_bl_10/" target="_blank">
-     <img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
@@ -37,19 +37,19 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html5,css3,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=php,python,javascript,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=html5,css3,bootstrap,javascript,php,python,mysql,vscode,github,figma,git" /><br>
 </div>
 
 <br/>
 </hr>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AkramBl1&theme=dark_dimmed&no-frame=true&no-bg=false&margin-w=4)
-<hr/>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
+    
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AkramBl1/AkramBl1/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
