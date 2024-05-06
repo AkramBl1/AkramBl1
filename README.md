@@ -44,17 +44,11 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-AkramBl1.vercel.app/?user=AkramBl1&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-AkramBl1.vercel.app/api?username=AkramBl1&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-AkramBl1.vercel.app/api/top-langs/?username=AkramBl1&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AkramBl1&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AkramBl1&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AkramBl1&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<br/><br/>
-
-<hr/>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <br/>
