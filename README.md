@@ -8,19 +8,17 @@
 
 <br/>
 
-<div align="left">
+- 👨‍💻 I’m Currently studying Full-stack development in [OFPPT](ofppt.ma)
  
-👨‍💻 I’m Currently studying Full-stack development in [OFPPT](ofppt.ma)
+- 🌱 I’m currently learning **PHP**
+
+- 💬 Ask me about **Javascript, Python, Mysql... or anything [here](https://github.com/AkramBl1)**
+
+- ⚡All of my projects are available at https://github.com/AkramBl1
+
  
-🌱 I’m currently learning **PHP**
-
-💬 Ask me about **Javascript, Python, Mysql... or anything [here](https://github.com/AkramBl1)**
-
-⚡ All of my projects are available at https://github.com/AkramBl1
-
- </div>
- 
-<div align="center"> 
+<div align="left"> 
+<h3 align="left">Connect with me:</h3>
   <a href="mailto:akramibnelyazid@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
