@@ -49,10 +49,10 @@
 
 ## 📊 GitHub Stats 
 <div align=center>
-  <img width=384 src="https://github-readme-stats.vercel.app/api?username=AkramBl1&theme=react&hide_border=true&include_all_commits=false&count_private=true&rank_icon=github" alt="streak stats"/>
+  <img width=384 src="https://github-readme-stats.vercel.app/api?username=AkramBl1&theme=react&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="streak stats"/>
   <img width=384 src="https://github-readme-streak-stats.herokuapp.com/?user=AkramBl1&theme=react&hide_border=true" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkramBl1&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkramBl1&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="top langs" />
 </div>
 
 
